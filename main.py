@@ -3,7 +3,7 @@ from tkinter import *
 import random
 
 root = tk.Tk()
-root.title('Burgess Technology Name Picker v1.0')
+root.title('Name Picker 9000')
 
 HEIGHT = 700
 WIDTH = 700
@@ -13,7 +13,7 @@ LIGHTGRAY = '#828282'
 LIGHTGREEN = '#a6cc54'
 RED='#eb4034'
 
-LIST_OF_EMPLOYEES = ['Andrew','Anthony','Ben','Cynthia','Daniel','Doug','Jeanne', 'Jennifer', 'Josh', 'Julie', 'Justin', 'Logan', 'Maggie','Matt','Micah','Mike','Norm','Tamara','Tom']
+LIST_OF_PEOPLE = ['Name1','Name2','Name3','Name4']
 
 list_of_names = []
 
